@@ -1,6 +1,6 @@
 # java_ui_taf_tutorial
 Java UI TAF tutorial example in phases
 
-Step 1 - Initialize Gradle
+Step 2 - Create First Successful Test
 
-https://www.peterfoldhazi.com/post/how-to-setup-gradle-in-vs-code
+As a next step, your focus should be on writing the simplest test that will open a browser and a homepage.
